@@ -5,7 +5,7 @@ import { Filter } from "lucide-react"
 
 const StatsAndFilters = ({completedTaskCount = 0, activeTaskCount = 0, filter, setFilter}) => {
   return (
-    <div className="flex flex-col items-start justify-between gap-4 sm:flex-row sm:items-center">
+    <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-center sm:justify-center">
       <div className="flex gap-3">
         <Badge
           variant="secondary"
