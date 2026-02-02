@@ -23,7 +23,7 @@ The app allows users to create, update, delete, and filter tasks by date and sta
 ### Tools
 - Git / GitHub
 - Postman
-### Deloy 
+### Deployment
 - Render
 
 
